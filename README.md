@@ -10,7 +10,7 @@
 
 ## 커리큘럼 ✏️
 
-1. 웹 브라우저가 메세지를 만든다.
+1. [웹 브라우저가 메세지를 만든다.](https://github.com/nahyunie/network-study/blob/main/network-study/WebBrowser.md)
    1. HTTP 리퀘스트 메시지를 작성한다.
    2. 웹 서버의 IP 주소를 DNS 서버에 조회한다.
    3. 전 세계의 DNS 서버가 연대한다.
