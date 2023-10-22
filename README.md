@@ -54,6 +54,6 @@
     <td align="center">👩🏻‍💻</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/nahyunie"><img src="https://avatars.githubusercontent.com/u/58367854?s=100" width="100px;" alt=""/><br /><sub><b>nahyunie</b></sub></a><br /></td> 
+    <td align="center"><a href="https://github.com/nahyunie"><img src="https://avatars.githubusercontent.com/u/58367854?s=100" width="100px;" alt=""/><br /><sub><b>nahyunie</b></sub></a><br /></td> 
   </tr>
 </table>
