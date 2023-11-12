@@ -15,7 +15,7 @@
    2. 웹 서버의 IP 주소를 DNS 서버에 조회한다.
    3. 전 세계의 DNS 서버가 연대한다.
    4. 프로토콜 스택에 메세지 송신을 의뢰한다.
-2. TCP/IP의 데이터를 전기 신로로 만들어 보낸다.
+2. [TCP/IP의 데이터를 전기 신호로 만들어 보낸다.](https://github.com/nahyunie/network-study/blob/main/network-study/TCP-IP.md)
    1. 소켓을 작성한다.
    2. 서버에 접속한다.
    3. 데이터를 송수신한다.
